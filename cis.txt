@@ -1,0 +1,6 @@
+CIS 241 - Web Development I 5.0 Credits
+CIS 242 - Web Development II: JavaScript and jQuery 5.0 Credits
+CIS 243 - Web Development III: Introduction to PHP 5.0 Credits
+CIS 244 - Web Development IV: Intro to Joomla! and SEO 5.0 Credits
+CIS 245 - Web Development V: Introduction to CSS 5.0 Credits
+CIS 246 - Web Dev VI: JavaScript Frameworks 5.0 Credits
